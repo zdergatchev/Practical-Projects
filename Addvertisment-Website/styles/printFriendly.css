@@ -1,4 +1,8 @@
-
+.printfriendly img{
+    float:left;
+    margin-top: 12px;
+    margin-right: 12px;
+}
 
 /* Changes font family and size */
 
@@ -14,11 +18,19 @@
 }
 
 
+
+
 .printfriendly p{
     font-size: 15px;
     margin-left: 40px;
     margin-right: 40px;
     margin-bottom: 20px;
     line-height: 2em;
+
+}
+
+/* Changes header color */
+
+.printfriendly h1, .printfriendly h2, .printfriendly h3, .printfriendly h4 {
 
 }
